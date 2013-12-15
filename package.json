@@ -1,6 +1,6 @@
 {
-  "title": "detect-dom-ready",
-  "name": "detectcss",
+  "title": "Detect Dom Ready",
+  "name": "detect-dom-ready",
   "description": "Simple module to detect dom ready, without jquery",
   "version": "1.0.2",
   "main": "index.js",
