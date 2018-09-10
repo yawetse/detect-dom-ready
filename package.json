@@ -30,6 +30,8 @@
       "email": "yaw.etse@gmail.com",
       "url": "http://about.me/yawjosephetse"
   },
+    "license": "MIT",
+
   "keywords": [
     "CSS",
     "feature detect",
